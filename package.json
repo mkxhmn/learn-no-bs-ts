@@ -1,0 +1,19 @@
+{
+  "name": "no-bs-ts",
+  "version": "0.0.1",
+  "description": "code along from Jack Herrington No BS TS series ",
+  "main": "basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkxhmn/learn-no-bs-ts.git"
+  },
+  "author": "mkxhmn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkxhmn/learn-no-bs-ts/issues"
+  },
+  "homepage": "https://github.com/mkxhmn/learn-no-bs-ts#readme"
+}

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mkxhmn/learn-no-bs-ts/issues"
   },
-  "homepage": "https://github.com/mkxhmn/learn-no-bs-ts#readme"
+  "homepage": "https://github.com/mkxhmn/learn-no-bs-ts#readme",
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
 }
